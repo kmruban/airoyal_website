@@ -1,0 +1,48 @@
+          <a href="airTac.html" class="card" data-info="Air-Tac"
+            ><div><img src="media/AirTac/airtac.png" /></div
+          ></a>
+          <a href="airVac.html" class="card" data-info="Air-Vac"
+            ><div><img src="media/AirVac/airvac.png" /></div
+          ></a>
+          <a href="aladco.html" class="card" data-info="Aladco"
+            ><div><img src="media/Aladco/aladco.png" /></div
+          ></a>
+          <a href="alkon.html" class="card" data-info="Alkon"
+            ><div><img src="media/Alkon/alkon.png" /></div
+          ></a>
+          <a href="allenair.html" class="card" data-info="Allenair"
+            ><div><img src="media/Allenair/allenair.png" /></div
+          ></a>
+          <a href="airLogic.html" class="card" data-info="Air Logic"
+            ><div><img src="media/AirLogic/airlogic.png" /></div
+          ></a>
+                   
+                 
+                    <a href="auroraAir.html" class="card" data-info="Aurora"
+            ><div><img src="media/AuroraAir/auroraair.png" /></div
+          ></a>
+
+                 
+                    <a href="bendix.html" class="card" data-info="Bendix"
+            ><div><img src="media/Bendix/bendix.png" /></div
+          ></a>
+
+
+          <a href="canfieldConnector.html" class="card" data-info="Canfield Connector"
+            ><div><img src="media/CanfieldConnector/canfieldconnector.png" /></div
+          ></a>
+
+
+                 
+                    <a href="compactAutomation.html" class="card" data-info="Compact Automation"
+            ><div><img src="media/CompactAutomation/compactautomation.gif" /></div
+          ></a>
+          <a href="conbracoApolloValves.html" class="card" data-info="Conbraco"
+            ><div><img src="media/ConbracoApolloValves/conbracoapollovalves.png" /></div
+          ></a>
+          <a href="controlAir.html" class="card" data-info="Control Air"
+            ><div><img src="media/ControlAir/controlair.png" /></div
+          ></a>
+          <a href="deltrolFluid.html" class="card" data-info="Deltrol"
+            ><div><img src="media/DeltrolFluid/deltrolfluid.png" /></div
+          ></a>
