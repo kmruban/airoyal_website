@@ -370,7 +370,6 @@ body {
   flex-direction: column;
   flex: 1;
   align-items: center;
-  justify-content: center;
   margin: 0.25rem 0.5rem;
   max-width: calc(50% - 1rem);
 }
@@ -397,14 +396,13 @@ body {
   width: 100%;
 }
 .page-content .our_services .card {
-  height: 400px;
+  height: 360px;
 }
 .page-content .our_services .card .image {
   width: 100%;
   background-color: black;
   display: flex;
   justify-content: center;
-  flex: 1;
   display: flex;
 }
 .page-content .our_services .card .image img {
@@ -418,9 +416,7 @@ body {
   width: 100%;
   margin-top: 0.5rem;
   color: var(--main-gray-extradark);
-  flex: 1;
   display: flex;
-  justify-content: space-around;
 }
 .page-content .our_services .card .text .header {
   font-size: 1.2rem;
